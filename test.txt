@@ -1,2 +1,4 @@
-sampletext
-pushpushpush
+sample text
+push push push
+
+サンプルテキスト
